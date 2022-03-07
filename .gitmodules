@@ -1,0 +1,3 @@
+[submodule "packages/goodoneuz/pay-uz"]
+	path = packages/goodoneuz/pay-uz
+	url = https://github.com/shaxzodbek-uzb/pay-uz.git
