@@ -14,5 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    dd(\App\Ecommerce\User\Entity\UserBalanceStatus::cases());
     return view('welcome');
 });
